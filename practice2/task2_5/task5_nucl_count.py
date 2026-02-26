@@ -1,0 +1,5 @@
+dna = str(input("Введите последовательность нуклеотидов:").upper())
+print("A:", dna.count("A"), dna.count("A")/len(dna))
+print("T:", dna.count("T"), dna.count("T")/len(dna))
+print("G:", dna.count("G"), dna.count("G")/len(dna))
+print("C:", dna.count("C"), dna.count("C")/len(dna))

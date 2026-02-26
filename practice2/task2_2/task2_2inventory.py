@@ -1,0 +1,5 @@
+reaktiv = input()
+re_num = input()
+file1 = open("C:/Users/user/Desktop/infa/practice2/inventory.txt", "w")
+print(f"Реактив {reaktiv} поступил на склад в количестве {re_num} шт", file=file1)
+file1.close()
