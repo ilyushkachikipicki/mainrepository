@@ -1,0 +1,9 @@
+boar_id: 100.50
+age_years: 4.66
+weight_kg: 69.74
+length_cm: 149.76
+shoulder_height_cm: 79.60
+tusk_length_cm: 10.25
+litter_size: 3.91
+health_score: 75.15
+territory_ha: 4.24
